@@ -45,5 +45,5 @@ This repository contains an analysis of car sales based on data from the provide
 3. **Filter and Drill Down:**
    - Use the available filters and interactive elements within the workbook to explore specific aspects of the data. This functionality allows you to drill down into details such as brand performance, ownership history, and engine types for a more nuanced analysis.
 ## Contact details:
-   -Name:U.Abhay
-   -email:abhayudumulla@gmail.com
+   ###### Name:U.Abhay
+   ###### email:abhayudumulla@gmail.com

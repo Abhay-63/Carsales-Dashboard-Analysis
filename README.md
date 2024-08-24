@@ -37,7 +37,7 @@ This repository contains an analysis of car sales based on data from the provide
 
 ## Opening and Exploring the Dashboard
 1. **Open the Dashboard:**
-   - Launch the dashboard file, which is an Excel workbook (`summary_statistics.xlsx`), on your computer.
+   - Launch the dashboard file, which is an Excel workbook on your computer.
 
 2. **Explore Visualizations:**
    - Examine the various charts and graphs within the Excel workbook to gain insights into the data. These visualizations help in understanding trends and patterns.
